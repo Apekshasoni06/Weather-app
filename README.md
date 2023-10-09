@@ -7,4 +7,4 @@ Users can input the name of a city, and the application fetches real-time weathe
 
 This simple and user-friendly application provides users with up-to-date weather details for their chosen location, helping them plan their activities accordingly.
 
-Click [here](https://apekshasoni06.github.io/Weather-app/)https://apekshasoni06.github.io/Weather-app/ for demo.
+Click [here](https://apekshasoni06.github.io/Weather-app/) for demo.
